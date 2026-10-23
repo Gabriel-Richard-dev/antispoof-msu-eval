@@ -1,0 +1,14 @@
+{
+  "model": "MobileNetV2-BiLSTM (Task1 RGB)",
+  "file": "MobileNetV2.pkl",
+  "bytes": 47448864,
+  "sha256": "65e7bfce0baf6a2ca2625ed0b782d2cbf9c15f839087520d61ccd9cf3421fce1",
+  "source": "Treinamento/MobileNetV2/final_model.pkl",
+  "num_frames": 11,
+  "attack_threshold": 0.982,
+  "face_detector": {
+    "file": "yolov8s-face-lindevs.onnx",
+    "sha256": "0a6d19f2f68d7f0cc8104ab5c9eaa54b63e298f91dcfefd4be897f94a1561d02",
+    "source": "Treinamento/MobileNetV2/yolov8s-face-lindevs.onnx"
+  }
+}
